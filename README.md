@@ -1,11 +1,13 @@
 Olá! Eu me chamo Júlia Nutti e sou dicente em Analise e Desenvolvimento de Sistemas ☺️
 
-Atualmente estou a procura do meu primeiro estágio na aréa de tecnologia 👩‍💻
+👩‍💻 Atualmente estou a procura do meu primeiro estágio na aréa de tecnologia
 
-Estou aprendendo linguagem Python e SQL 🐍
+🐍 Estou aprendendo linguagem Python 
 
-Como me contatar: julianuttibezerra@gmail.com 📧
+📧 Como me contatar: julianuttibezerra@gmail.com
 
-Pronomes: ela/dela 
+🤗 Pronomes: ela/dela 
+
+
  
 
